@@ -1,0 +1,39 @@
+#ctn-main {
+    background-color: crimson;
+    height: 200px;
+    width: 500px;
+    border-radius: 10px;
+}
+
+#head {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: x-large;
+}
+
+#btn:hover {
+    color: white;
+    background-color: yellowgreen;
+    font-weight: 900;
+}
+
+.font-styl {
+    color: aliceblue;
+    font-family: cursive;
+    font-variant-caps: titling-caps;
+}
+
+.font-styl2 {
+    color: black;
+    font-family: cursive;
+    font-variant-caps: titling-caps;
+}
+
+.footer {
+    bottom: 0;
+    position: fixed;
+    background-color: grey;
+    width: 100%;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
